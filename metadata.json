@@ -1,0 +1,6 @@
+{
+  "name": "AskAbdullah",
+  "description": "AskAbdullah — Your favourite advisor. Ask in English, اردو, or Roman Urdu. Built by Abdullah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
